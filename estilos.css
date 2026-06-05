@@ -1,0 +1,28 @@
+body {
+  background-image: url("../imagenes/ajedrezfondo3.jpg");
+background-repeat: no-repeat;
+  background-size: cover;
+  
+  margin:0;
+font-family: Helvetica;
+  background-color: black;
+}
+nav {
+background-color: black;
+padding:15px;
+text-align:center;
+}
+nav a{
+color: white;
+text-decoration:none;
+margin:20px;
+font-size:18px;
+padding: 10px 15px;
+}
+nav a:hover{
+background-color: gray;
+border-radius:5px;
+}
+p{
+}
+

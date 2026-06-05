@@ -1,0 +1,21 @@
+.dos{
+  background: red;
+  border: 1px solid #03071e;
+  width: 110px;
+  
+}
+body {
+  color: white;
+  background-image: url("../imagenes/nubes.jpg");
+background-repeat: repeat;
+  background-size: cover;
+  margin:0;
+font-family: Helvetica;
+  background-color: black;
+  text-align: left;
+}
+img{
+  width: 70px;
+  height: 70px;
+  align-items: left;
+}
